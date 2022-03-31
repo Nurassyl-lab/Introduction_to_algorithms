@@ -1,0 +1,11 @@
+Homework 3
+By 0810981 安實克
+
+Since I'm using Linux, I did not include executable file.
+You can compile my .cpp source code using command below:
+
+g++ -o 0810981_安實克_HW3.exe 0810981_安實克_HW3.cpp
+
+and run it using this command:
+
+./0810981_安實克_HW3.exe
